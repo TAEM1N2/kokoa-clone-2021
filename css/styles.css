@@ -9,13 +9,18 @@
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/badge.css";
+@import "components/icon-row.css";
 
 /* Screens */
 @import "screens/login.css";
 @import "screens/friends.css";
+@import "screens/find.css";
+@import "screens/more.css";
+
 
 body {
     padding-top: 20px;
+    padding-bottom: 20px;
     color: #2e363e; 
     font-family: 'Open Sans', sans-serif;
 }
